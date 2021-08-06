@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@quasar/cli": "^1.0.5",
+    "jspdf": "^2.3.1",
+    "jspdf-autotable": "^3.5.15",
+    "pdfmake": "^0.2.2",
+    "svg-to-pdfkit": "^0.1.8"
+  }
+}
